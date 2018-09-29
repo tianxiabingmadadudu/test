@@ -66,7 +66,7 @@ class Person():
                 pass
 one = Person('xiaoma')
 one.rand_m()
-print(112)
+print(1123)
 # print one.eat()
 # apple = int('4')
 # weight = float('20')
